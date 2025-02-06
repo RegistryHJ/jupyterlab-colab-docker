@@ -24,7 +24,7 @@ Users are free to use, modify, and distribute the software, provided they retain
 
 ## Full License
 
-- `registryhj/jupyterlab-base` Full License: https://github.com/RegistryHJ/jupyterlab-base-docker/blob/main/license.md⁠
+- JupyterLab Base Docker(`registryhj/jupyterlab-base`) Full License: https://github.com/RegistryHJ/jupyterlab-base-docker/blob/main/license.md
 
 <br />
 
